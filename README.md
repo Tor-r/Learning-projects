@@ -11,4 +11,4 @@ Data scientist specialization on Yandex Practicum
 | [Определение токсичных комментариев](nlp_toxic_comments) | Поиск токсичных комментариев и отправка их на модернизацию. Классификация комментариев на позитивные и негативные. | *pandas numpy seaborn scipy datetime nltk xgboost lightgbm* |
 | [Машинное обучение на обогатительной фабрике](09-Gold_extraction) | Создание модели машинного обучения для прогнозирования выхода готовой продукции при обогащении золотоносной руды| *pandas numpy seaborn sklearn* |
 | [Определение прибыльного региона для нефтедобывающей компании](oil_extraction) | Поиск прибыльного нефтедобывающего региона с помощью моделирования машинного обучения | *pandas numpy seaborn sklearn* |
-| [Прогноз заказов такси на следующий час](taxi_orders) | Постройка системы прогноза количества заказов такси на следующий час | *pandas numpy seaborn sklearn catboost xgboost lightgbm statsmodels* |
+| [Прогноз заказов такси на следующий час](12-Taxi_time_series) | Постройка системы прогноза количества заказов такси на следующий час | *pandas numpy seaborn sklearn catboost xgboost lightgbm statsmodels* |

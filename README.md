@@ -13,4 +13,4 @@ Data scientist specialization on Yandex Practicum
 | [Защита пользовательских данных](10-Insurance) | Разработка метода шифрования данных. Постройка модели машинного обучения, на шифрованных данных | *pandas numpy seaborn scipy random* |
 | [Определение стоимости подержанных автомобилей](11-Auto-pricing) | Тестирование и выбор модели машинной обучения для сервиса определения стоимости подержанных автомобилей | *pandas numpy seaborn sklearn lightgbm catboost* |
 | [Прогноз заказов такси на следующий час](12-Taxi_time_series) | Постройка системы прогноза количества заказов такси на следующий час | *pandas numpy seaborn sklearn catboost xgboost lightgbm statsmodels* |
-| [Анализ текстов](13-NLP) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn |
+| [Анализ текстов](13-NLP) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, imblearn, wordcloud |
